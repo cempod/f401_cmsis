@@ -1,0 +1,5 @@
+# ninja log v5
+15	47	7416261000307916	CMakeFiles/f401_cmsis.elf.dir/startup_stm32f401xc.s.obj	92fb4c03f6a531b3
+4	76	7416261000594281	CMakeFiles/f401_cmsis.elf.dir/cmsis/src/system_stm32f4xx.c.obj	ba8d36b9d8eac01
+10	82	7416261000604649	CMakeFiles/f401_cmsis.elf.dir/core/src/main.c.obj	7c286f09f78751b7
+82	235	7416261001439100	f401_cmsis.elf	82ab21cba15ba83a

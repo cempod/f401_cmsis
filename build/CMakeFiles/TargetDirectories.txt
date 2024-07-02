@@ -1,0 +1,3 @@
+D:/petprojects/f401_cmsis/build/CMakeFiles/f401_cmsis.elf.dir
+D:/petprojects/f401_cmsis/build/CMakeFiles/edit_cache.dir
+D:/petprojects/f401_cmsis/build/CMakeFiles/rebuild_cache.dir

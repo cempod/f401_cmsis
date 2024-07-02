@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "openocd",
+            "type": "cortex-debug",
+            "request": "launch",
+            "cwd": "${workspaceRoot}",
+            "servertype": "openocd",
+            "executable": "./build/f401_cmsis.elf",
+            "svdFile": "STM32F401CCUX_FLASH.ld",
+            "configFiles": [
+                "interface/stlink.cfg",
+                "target/stm32f4x.cfg"
+            ]
+        }
+    ]
+}
